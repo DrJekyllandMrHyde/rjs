@@ -121,7 +121,7 @@ Chat.showNotification = function(text) {
     } else if (Notification.permission != 'granted') {
         Notification.requestPermission();
     }else if (Notification.permission == 'granted' && document.hidden) {
-        var notification = new Notification('RuletkaJS', {
+        var notification = new Notification('GlobalUS', {
             body: text,
             icon: '/img/icon_192.png'
         });
