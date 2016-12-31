@@ -6,7 +6,7 @@ var Lang = {};
  *
  * @type {String}
  */
-Lang.default = 'en';
+Lang.default = 'ru';
 
 /**
  * Словарь враз на нескольких языхах
