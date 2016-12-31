@@ -44,8 +44,8 @@ Lang.dictionary = {
         'ru': 'Сообщить о нарушении'
     },
     'log_start': {
-        'en': 'Click "Start" to start a video chat with a random person.',
-        'ru': 'Нажмите кнопку «Старт», чтобы начать видеочат с случайным человеком.'
+        'en': 'Click "Start" to start a video chat.',
+        'ru': 'Нажмите кнопку «Старт», чтобы начать видеочат.'
     },
     'log_get_stream': {
         'en': 'Allow this site to use your camera.',
